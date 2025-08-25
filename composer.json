@@ -1,11 +1,11 @@
 {
-    "name": "amt/number-helper",
+    "name": "alextuersley/number-helper",
     "description": "Class with VAT, Formatting and Price functions",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Amt\\NumberHelper\\": "src/"
+            "alextuersley\\NumberHelper\\": "src/"
         }
     },
     "authors": [

@@ -1,6 +1,6 @@
 <?php
 
-namespace Amt\NumberHelper;
+namespace alextuersley\NumberHelper;
 
 class NumberHelper
 {
