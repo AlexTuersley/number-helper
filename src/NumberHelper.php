@@ -25,7 +25,7 @@ class NumberHelper
     }
 
     /**
-     * Formats number
+     * Formats number with decimals and thousand separator
      *
      * @param mixed $value
      * @param int $decimals
@@ -42,7 +42,7 @@ class NumberHelper
     }
 
     /**
-     * Formats number
+     * Formats number into price format, with optional currency symbol
      *
      * @param float $value
      * @param int $decimals
